@@ -87,7 +87,7 @@ button:hover {
     src: url('GodoM.woff') format('woff');
 }
 @font-face {
-    font-family: 'Godo';
+    font-family: 'a';
     font-weight: 700;
-    src: url('GodoB.woff') format('woff');
+    src: url('a_animalfarm.woff') format('woff');
 }
