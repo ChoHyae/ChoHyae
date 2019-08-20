@@ -31,7 +31,7 @@
 /* BUTTON */
 button,
 button::after {
-  transition: all 0.8s;
+  transition: all 0.7s;
 }
 
 button {
@@ -54,7 +54,7 @@ button:hover {
 }
 
 #title {
-	animation-duration: 1s; animation-name: slidein;
+	animation-duration: 0.7s; animation-name: slidein;
 }
 
 @keyframes slidein
@@ -68,7 +68,7 @@ button:hover {
 }
 
 #text {
-	animation-duration: 1s; animation-name: slidein;
+	animation-duration: 0.7s; animation-name: slidein;
 }
 
 @keyframes slidein
