@@ -31,7 +31,7 @@
 /* BUTTON */
 button,
 button::after {
-  transition: all 0.5s;
+  transition: all 1.0s;
 }
 
 button {
@@ -68,7 +68,7 @@ button:hover {
 }
 
 #text {
-	animation-duration: 1.5s; animation-name: slidein;
+	animation-duration: 1s; animation-name: slidein;
 }
 
 @keyframes slidein
@@ -84,10 +84,10 @@ button:hover {
 @font-face {
     font-family: 'Godo';
     font-weight: 500;
-    src: url('fonts/GodoM.woff') format('woff');
+    src: url('GodoM.woff') format('woff');
 }
 @font-face {
     font-family: 'Godo';
     font-weight: 700;
-    src: url('fonts/GodoB.woff') format('woff');
+    src: url('GodoB.woff') format('woff');
 }
